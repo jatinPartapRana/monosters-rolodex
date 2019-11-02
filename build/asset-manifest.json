@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monosters-rolodex/static/css/main.3b738214.chunk.css",
+    "main.js": "/monosters-rolodex/static/js/main.bfac82c9.chunk.js",
+    "main.js.map": "/monosters-rolodex/static/js/main.bfac82c9.chunk.js.map",
+    "runtime-main.js": "/monosters-rolodex/static/js/runtime-main.c297a9e5.js",
+    "runtime-main.js.map": "/monosters-rolodex/static/js/runtime-main.c297a9e5.js.map",
+    "static/js/2.bd2f63ac.chunk.js": "/monosters-rolodex/static/js/2.bd2f63ac.chunk.js",
+    "static/js/2.bd2f63ac.chunk.js.map": "/monosters-rolodex/static/js/2.bd2f63ac.chunk.js.map",
+    "index.html": "/monosters-rolodex/index.html",
+    "precache-manifest.a62f1e253fb43a7f243ee2104bafcc5e.js": "/monosters-rolodex/precache-manifest.a62f1e253fb43a7f243ee2104bafcc5e.js",
+    "service-worker.js": "/monosters-rolodex/service-worker.js",
+    "static/css/main.3b738214.chunk.css.map": "/monosters-rolodex/static/css/main.3b738214.chunk.css.map",
+    "static/media/logo.svg": "/monosters-rolodex/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c297a9e5.js",
+    "static/js/2.bd2f63ac.chunk.js",
+    "static/css/main.3b738214.chunk.css",
+    "static/js/main.bfac82c9.chunk.js"
+  ]
+}
